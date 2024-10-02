@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeetaChauhan777](https://github.com/GeetaChauhan777)
 
-- 💬 Ask me about **HTML5, CSS, Less/Sass, JavaScript, Bootstrap AngularJS, ReactJS, Node.js, JQuery, NPM, MongoDB, MySQL, Python**
+- 💬 Ask me about **HTML5, CSS, Less/Sass, JavaScript, Bootstrap, AngularJS, ReactJS, Node.js, JQuery, Node.js, MongoDB, MySQL, Java**
 
 - 📫 How to reach me **Chauhangeeta365@gmail.com**
 
